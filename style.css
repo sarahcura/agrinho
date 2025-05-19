@@ -40,20 +40,6 @@ p {
 img {
     max-width: 90%;
 }
-
-/* código omitido */
-button {
-  background-color: #3498db;
-  color: white;
-  border-radius: 10px;
-  transition: background-color 0.3s ease;
-}
-
-button:hover {
-  background-color: #2980b9;
-}
-/* código omitido */
-
 /* Responsividade */
 @media (max-width: 768px) {
     .conteudo {
