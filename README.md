@@ -15,7 +15,7 @@ Este projeto tem como objetivo promover a conscientização sobre a geração e 
 * Espécies importantes para o equilíbrio ambiental são diretamente afetadas.
 
 #### Problemas para a Saúde Humana
-4. Doenças causadas por vetores
+4. Doenças causadas por vetores:
 * Lixo acumulado atrai mosquitos, ratos e baratas, que transmitem doenças como dengue, leptospirose e outras infecções.
 
 5. Contaminação alimentar:
