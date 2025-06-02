@@ -2,33 +2,34 @@
 Este projeto tem como objetivo promover a conscientização sobre a geração e o descarte correto de resíduos no meio rural, incentivando práticas sustentáveis que preservem o meio ambiente e melhorem a qualidade de vida.
 
 #### Problemas Ambientais:
-1. Poluição do solo e da água
+1. Poluição do solo e da água:
 * Lixo jogado diretamente na terra pode contaminar o solo com substâncias tóxicas (principalmente pilhas, baterias, embalagens de agrotóxicos).
 * Quando chove, esses resíduos podem ser levados para rios, lagos e nascentes, prejudicando a água usada para consumo ou irrigação.
 
-2. Queimadas de lixo
+2. Queimadas de lixo:
 * Muitas pessoas ainda queimam o lixo no campo. Isso libera gases tóxicos que poluem o ar e prejudicam a saúde de quem respira.
 * Além disso, o fogo pode sair do controle e causar incêndios em plantações e matas.
 
-3. Ameaça à biodiversidade
+3. Ameaça à biodiversidade:
 * Animais podem ingerir plásticos ou outros resíduos, confundindo com alimento, o que pode levá-los à morte.
 * Espécies importantes para o equilíbrio ambiental são diretamente afetadas.
+
 #### Problemas para a Saúde Humana
 4. Doenças causadas por vetores
 * Lixo acumulado atrai mosquitos, ratos e baratas, que transmitem doenças como dengue, leptospirose e outras infecções.
 
-5. Contaminação alimentar
+5. Contaminação alimentar:
 * Se o lixo é mal armazenado ou jogado perto das plantações, pode contaminar a produção agrícola e causar intoxicações.
 
-6. Riscos ao manusear resíduos perigosos
+6. Riscos ao manusear resíduos perigosos:
 * Muitos não sabem que certos materiais (como agrotóxicos, pilhas e eletrônicos) são perigosos e precisam de descarte especial.
 * Crianças e idosos são especialmente vulneráveis.
 
 #### Problemas Sociais e Econômicos
-7. Desvalorização do espaço rural
+7. Desvalorização do espaço rural:
 * O acúmulo de lixo afeta a paisagem, desvaloriza a região e afasta visitantes ou compradores de produtos locais.
 
-8. Desperdício de materiais recicláveis
+8. Desperdício de materiais recicláveis:
 * Ao jogar tudo no mesmo lugar, perde-se a chance de reciclar e gerar renda com o reaproveitamento de materiais como vidro, metal, papel e plástico.
 
 #### Atividades:
