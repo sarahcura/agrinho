@@ -1,38 +1,62 @@
-# Impacto do Desmatamento
-Este projeto é uma página web informativa sobre os impactos do desmatamento no meio ambiente e na qualidade de vida das pessoas. Através de uma abordagem visual e clara, o conteúdo é dividido em seções que explicam os problemas causados pela destruição das florestas, suas consequências e as ações necessárias para mitigar seus efeitos.
+# Do lixo ao valor: construindo soluções sustentáveis para o campo
+Este projeto tem como objetivo promover a conscientização sobre a geração e o descarte correto de resíduos no meio rural, incentivando práticas sustentáveis que preservem o meio ambiente e melhorem a qualidade de vida.
 
-### Estrutura do Projeto
-Tecnologias Utilizadas:
-HTML: Estrutura principal da página.
-CSS: Estilização visual da página.
-Fontes: Fontes personalizadas para melhorar a legibilidade e o design.
-Arquivos:
-index.html: Arquivo principal com a estrutura da página.
-style.css: Arquivo de estilos para formatação da página.
+#### Problemas Ambientais:
+1. Poluição do solo e da água
+* Lixo jogado diretamente na terra pode contaminar o solo com substâncias tóxicas (principalmente pilhas, baterias, embalagens de agrotóxicos).
+* Quando chove, esses resíduos podem ser levados para rios, lagos e nascentes, prejudicando a água usada para consumo ou irrigação.
 
-### Descrição das Seções:
-Cabeçalho (Header):
-* Título da página com o nome "Impacto do Desmatamento".
-* Parágrafo explicativo sobre como o desmatamento afeta o ambiente e as pessoas.
-* Navegação com links internos para as seções "Os Problemas", "Consequências" e "Conclusão".
+2. Queimadas de lixo
+* Muitas pessoas ainda queimam o lixo no campo. Isso libera gases tóxicos que poluem o ar e prejudicam a saúde de quem respira.
+* Além disso, o fogo pode sair do controle e causar incêndios em plantações e matas.
 
-#### Problemas:
+3. Ameaça à biodiversidade
+* Animais podem ingerir plásticos ou outros resíduos, confundindo com alimento, o que pode levá-los à morte.
+* Espécies importantes para o equilíbrio ambiental são diretamente afetadas.
+#### Problemas para a Saúde Humana
+4. Doenças causadas por vetores
+* Lixo acumulado atrai mosquitos, ratos e baratas, que transmitem doenças como dengue, leptospirose e outras infecções.
 
-Seção detalhando os principais problemas gerados pelo desmatamento:
-Aumento das enchentes.
-Calor excessivo e ilhas de calor.
-Redução da qualidade de vida.
+5. Contaminação alimentar
+* Se o lixo é mal armazenado ou jogado perto das plantações, pode contaminar a produção agrícola e causar intoxicações.
+
+6. Riscos ao manusear resíduos perigosos
+* Muitos não sabem que certos materiais (como agrotóxicos, pilhas e eletrônicos) são perigosos e precisam de descarte especial.
+* Crianças e idosos são especialmente vulneráveis.
+
+#### Problemas Sociais e Econômicos
+7. Desvalorização do espaço rural
+* O acúmulo de lixo afeta a paisagem, desvaloriza a região e afasta visitantes ou compradores de produtos locais.
+
+8. Desperdício de materiais recicláveis
+* Ao jogar tudo no mesmo lugar, perde-se a chance de reciclar e gerar renda com o reaproveitamento de materiais como vidro, metal, papel e plástico.
+
+#### Atividades:
+1. Pesquisa local:
+* Entrevistar moradores, agricultores e líderes comunitários sobre o descarte de lixo.
+* Fazer um diagnóstico: quais resíduos são mais comuns e para onde vão?
+
+2. Campanha educativa:
+* Criar cartazes, vídeos e rodas de conversa sobre o tema.
+* Envolver a escola e a comunidade rural.
+
+3. Oficina de reutilização:
+* Construção de brinquedos, utensílios ou objetos decorativos com materiais recicláveis.
+* Criação de uma horta com compostagem orgânica.
+
+4. Mutirão ambiental:
+* Limpeza de áreas rurais com descarte irregular de lixo.
+* Criação de pontos de coleta seletiva (em parceria com a prefeitura, se possível).
 
 #### Consequências:
 
-Lista das consequências diretas do desmatamento, como:
-* Aumento das enchentes e erosão do solo.
-* Mudanças climáticas e perda da biodiversidade.
-* Impacto na saúde pública e economia local.
+* Poluição visual e atmosférica.
+* Desperdício de recursos.
+* Mudanças climáticas.
 
 #### Conclusão:
 
-Reflexão final sobre a necessidade de ações para combater o desmatamento, incluindo preservação ambiental, reflorestamento e práticas sustentáveis.
+O descarte inadequado do lixo é um problema grave que afeta o meio ambiente, a saúde pública e a economia. Para minimizar seus impactos, é fundamental adotar práticas sustentáveis como a reciclagem, a compostagem e o consumo consciente. Pequenas ações individuais podem gerar grandes mudanças coletivas, contribuindo para um planeta mais limpo e saudável. A responsabilidade é de todos!
 
 #### Rodapé (Footer):
 
